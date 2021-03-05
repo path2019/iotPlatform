@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>spring-boot-web 与 mysql 的交互</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <h2>设备信息表</h2>
+    <p>输入一条新的设备数据信息：</p><br>
+    <div class="add">
+        <h2>设备数据</h2>
+        <form action="/add" method="GET">
+            deviceID:<input type="text" name="deviceId"><br>
+            serviceEnvironment:<input type="text" name="serviceEnvironment"><br>
+            serviceDevice:<input type="text" name="serviceDevice"><br>
+            eventTime:<input type="text" name="eventTime"><br>
+            imei:<input type="text" name="imei"><br>
+            iccId:<input type="text" name="iccId"><br>
+            cellId:<input type="text" name="cellId"><br>
+            roomTemperature:<input type="value" name="roomTemperature"><br>
+            roomHumidity:<input type="value" name="roomHumidity"><br>
+            innerTempAlarm:<input type="value" name="innerTempAlarm"><br>
+            extTempAlarm:<input type="value" name="extTempAlarm"><br>
+            humitureAlarm:<input type="value" name="humitureAlarm"><br>
+            battery:<input type="value" name="battery"><br>
+            <input type="submit" value="提交">
+        </form>
+    </div>
+    <div class="all">
+        <h2><a href="/all">查看所有注册设备数据</a></h2>
+    </div>
+</body>
+
+</html>
