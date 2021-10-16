@@ -361,7 +361,6 @@ public class ExcelHandle {
         deviceExcelRow.put("d76fcb55-32c5-4b80-81c3-2055236b5cb5",344);
         deviceExcelRow.put("61e9918a-c6f6-45d0-b864-6364a810c3a4",345);
         deviceExcelRow.put("6de494ee-44eb-4ab9-a9e7-d1746e5a8ed4",346);
-        
         deviceExcelRow.put("5b922591-8022-410e-9ac8-af2496d7d2e5",348);
         deviceExcelRow.put("31a422eb-a7ca-411f-bf8e-b87f0e86a59f",349);
         deviceExcelRow.put("bcd4f013-1fac-4966-8d1b-4d49a1233a0b",350);
@@ -590,14 +589,30 @@ public class ExcelHandle {
         deviceExcelRow.put("0e66aa9c-88ef-488f-8f99-e5cb8104f4d4",573);
         deviceExcelRow.put("f2a481aa-70f6-4c9a-b46d-7da1c939030d",574);
         deviceExcelRow.put("8f19a03a-45ae-4504-97c7-4a3d5c473ea8",575);
-        deviceExcelRow.put("44f8e50c-2327-4fe9-81ec-0d826e66d590",576);
-        deviceExcelRow.put("a27b2daa-3f5e-4acc-9565-fad291661cbd",577);
-        deviceExcelRow.put("ff3f9b0b-0643-4cb6-9453-8c5b900582c5",578);
-        deviceExcelRow.put("36e41bb2-e77d-4e21-8e44-6b3260512a0e",579);
-        deviceExcelRow.put("f58210ef-0fc6-478f-8011-a0a34bcd06cf",580);
-        deviceExcelRow.put("707abb6f-1572-4544-8007-948c14b6ffb6",581);
-        deviceExcelRow.put("56b9d41a-cbe4-4f60-89b5-c052109ab04c",582);
-        deviceExcelRow.put("8063e4ad-259a-4e76-b878-474791610424",583);
+        deviceExcelRow.put("0feb0d8c-4d0d-430c-8621-a75a1aa19e3f",576);
+        deviceExcelRow.put("041eafee-3194-4da6-94f0-e9b843145065",577);
+        deviceExcelRow.put("7cec922b-bc55-4d0e-9d8b-d8a818e6faa8",578);
+        deviceExcelRow.put("c686490d-646a-419c-809f-2fdb5b2c2928",579);
+        deviceExcelRow.put("fd54b49d-8461-4124-aa78-eed89ac6c40f",580);
+        deviceExcelRow.put("2b2b6a60-f8a2-4f42-9524-971ce0519f52",581);
+        deviceExcelRow.put("f3f8b2a1-0b15-4d42-a690-d28abfa6b856",582);
+        deviceExcelRow.put("def94450-a29f-4972-8d5e-5d1c5cead354",583);
+        deviceExcelRow.put("17b8b927-01ab-451b-b34d-02e5d607bcdb",584);
+        deviceExcelRow.put("19bc8bad-f1ab-45e3-8080-77f4ba0717a4",585);
+        deviceExcelRow.put("a09b2adf-fd22-44bd-9cf9-bcceb7e731cf",586);
+        deviceExcelRow.put("47aebeb2-4b33-4381-9243-fe7f65a9faf4",587);
+        deviceExcelRow.put("166d4779-0731-468e-a7a9-1778ace0fc19",588);
+        deviceExcelRow.put("f2a481aa-70f6-4c9a-b46d-7da1c939030d",589);
+        deviceExcelRow.put("6cc1724e-2d99-4335-ae95-832ccffd921c",593);
+        deviceExcelRow.put("a27b2daa-3f5e-4acc-9565-fad291661cbd",594);
+        deviceExcelRow.put("d7942d0a-21cf-4c51-8a4e-9838ae128d6c",610);
+        deviceExcelRow.put("166d4779-0731-468e-a7a9-1778ace0fc19",611);
+        deviceExcelRow.put("5cec00af-a336-4258-a150-b6cc6b7a29d3",612);
+        deviceExcelRow.put("0e66aa9c-88ef-488f-8f99-e5cb8104f4d4",613);
+        deviceExcelRow.put("ccd0d3d8-bef9-4acd-9868-ac805d03a1a7",614);
+        deviceExcelRow.put("3c064455-6c7a-4074-be89-8be5037e384e",615);
+        deviceExcelRow.put("d4b6029c-d334-4ebc-a1b3-b8097f16b08d",616);
+        deviceExcelRow.put("d4e9d36b-a9f9-4788-a204-ac2a17eeacb6",617);
 	}
 
 
